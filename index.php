@@ -79,7 +79,7 @@ $topic = mysql_fetch_assoc($result);
                 font-size: 1.4em;
             }
             .description{
-                width:300px;
+                width:500px;
             }
         </style>
     </head>
